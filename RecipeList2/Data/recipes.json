@@ -96,7 +96,7 @@
     },
     {
         "name": "Lasagna",
-        "featured": false,
+        "featured": true,
         "image" : "lasagna",
         "description": "Layers of goodness in this cheesy delight.",
         "prepTime": "30 minutes",
